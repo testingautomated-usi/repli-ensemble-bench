@@ -14,7 +14,9 @@ On the windows machine, a python 3.6 (64 bit) environment was used.
 For questions regarding `uncertainty-wizard`, please refer to the 
 [library repository](https://github.com/testingautomated-usi/uncertainty-wizard).
 
-### PC: cifar_ubu_2xgpu
+## Results 
+
+### PC: Dual-GPU custom-built Ubuntu20.04
 CPU = Threadripper 1920X, GPU 0 = GTX 1060, GPU 1 = GTX 1070Ti
 
 
@@ -37,8 +39,7 @@ Context: multigpu
 >	Avg load GPU 1: 92.41%<br>
 
 
-
-### PC: cifar_10_on_win_2080_ti
+### PC: Alienware Aurora R8
 CPU = i7 9700, GPU 0 = RTX 2080Ti 
 
 Context: mainprocess
