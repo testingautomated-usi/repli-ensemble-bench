@@ -2,6 +2,7 @@
 
 This repository contains the reproduction of our performance benchmarks (table 1)
 in the paper: *Uncertainty Wizard; Fast and User-Friendly Neural Network Uncertainty Quantification*
+(preprint available upon request).
 
 For training, the scripts `run_in_ubu_2xgpu.py` and `run_on_win_2080_ti.py` were used.
 So created artefacts were manually moved into an according subfolder in `results/`.
@@ -11,7 +12,7 @@ On the ubuntu machine, the training scripts were executed in a docker container,
 in this repository.
 On the windows machine, a python 3.6 (64 bit) environment was used.
 
-For questions regarding `uncertainty-wizard`, please refer to the 
+For questions regarding `uncertainty-wizard` please refer to the 
 [library repository](https://github.com/testingautomated-usi/uncertainty-wizard).
 
 ## Results 
